@@ -31,7 +31,7 @@ Namespace DockingThreads
 			End Set
 		End Property
 
-		Public Property TargetName() As String
+		Public Property TargetName() As String Implements IMVVMDockingProperties.TargetName
 
 		Public Overrides Function ToString() As String
 			Return Name

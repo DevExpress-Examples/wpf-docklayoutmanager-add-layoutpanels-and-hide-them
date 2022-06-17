@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WPF Dock Layout Manager - Add LayoutPanels and Hide Them
+# WPF Dock Layout Manager - Add and Hide LayoutPanels
 
 This example uses the `BeginUpdate()` and `EndUpdate()` methods to add and hide LayoutPanels. Click the `Add New` button to add ten LayoutPanels and the `Hide All` button to hide  the displayed panels to the left side of the application.
 
